@@ -9,15 +9,15 @@
 
         <variable
             name="custerReport"
-            type="edu.aku.hassannaqvi.tpvics_r2.ui.lists.FormsReportCluster" />
+            type="edu.aku.hassannaqvi.tpvics_shruc_r2.ui.lists.FormsReportCluster" />
 
         <variable
             name="dtReport"
-            type="edu.aku.hassannaqvi.tpvics_r2.ui.lists.FormsReportDate" />
+            type="edu.aku.hassannaqvi.tpvics_shruc_r2.ui.lists.FormsReportDate" />
 
         <variable
             name="pendingReport"
-            type="edu.aku.hassannaqvi.tpvics_r2.ui.lists.FormsReportPending" />
+            type="edu.aku.hassannaqvi.tpvics_shruc_r2.ui.lists.FormsReportPending" />
     </data>
 
     <LinearLayout

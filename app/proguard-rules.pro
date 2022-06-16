@@ -22,6 +22,6 @@
 -keep,includedescriptorclasses class net.sqlcipher.** { *; }
 -keep,includedescriptorclasses interface net.sqlcipher.** { *; }
 
--keep class edu.aku.hassannaqvi.tpvics_r2.database.DatabaseHelper {
+-keep class edu.aku.hassannaqvi.tpvics_shruc_r2.database.DatabaseHelper {
     public <methods>;
 }

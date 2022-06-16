@@ -8,7 +8,7 @@
 
         <variable
             name="callback"
-            type="edu.aku.hassannaqvi.tpvics_r2.ui.WebViewActivity" />
+            type="edu.aku.hassannaqvi.tpvics_shruc_r2.ui.WebViewActivity" />
     </data>
 
     <LinearLayout

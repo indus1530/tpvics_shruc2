@@ -58,7 +58,7 @@
     <string name="sectionchlistofchildren0623monthsoldsubheading"> بارہ سے تیئس ماہ کی عمر کے بچوں کی فہرست</string>
 
     <!--    <string name="istatus">انٹرویوکا نتیجہ: انٹرویوکے درست نتیجے کا دیئے گئے آپشنز کے مطابق تعین کریں</string>-->
-    <string name="app_name"> TPVICS (Round 2) Household Survey App - Urdu </string>
+    <string name="app_name"> TPVICS SHRUC (Round 2) Household Survey App - Urdu </string>
     <string name="btnSync">Download Data</string>
     <string name="btnUpload">Upload Data</string>
     <string name="promptemail">Email</string>

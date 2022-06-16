@@ -7,7 +7,7 @@
 
         <variable
             name="child"
-            type="edu.aku.hassannaqvi.tpvics_r2.models.Child" />
+            type="edu.aku.hassannaqvi.tpvics_shruc_r2.models.Child" />
     </data>
 
     <LinearLayout

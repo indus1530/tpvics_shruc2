@@ -1,6 +1,6 @@
 <resources>
 
-    <string name="app_name">TPVICS (Round 2) Household Survey App - English</string>
+    <string name="app_name">TPVICS SHRUC (Round 2) Household Survey App - English</string>
     <string name="btnDownload" translatable="false">Download Data</string>
     <string name="btnUpload">Upload Data</string>
     <string name="promptemail">Email</string>
