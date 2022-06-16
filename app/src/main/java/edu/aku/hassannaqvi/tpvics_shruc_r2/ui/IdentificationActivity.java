@@ -179,7 +179,7 @@ public class IdentificationActivity extends AppCompatActivity {
             bi.fldGrpIdentifier.setVisibility(View.VISIBLE);
         } else {
             Toast.makeText(this, "Enumeration Block not found", Toast.LENGTH_SHORT).show();
-
+            //Done
 
         }
     }
