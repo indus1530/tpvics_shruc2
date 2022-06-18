@@ -68,6 +68,9 @@
         <entry key="..\:/Users/ibrahim.mushtaque/AndroidStudioProjects/TPVICS_R2/app/src/main/res/layout/activity_section_ss_2.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/ibrahim.mushtaque/AndroidStudioProjects/TPVICS_SHRUC2/TPVICS_SHRUC2/app/src/main/res/layout/activity_child_ending.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/ibrahim.mushtaque/AndroidStudioProjects/TPVICS_SHRUC2/TPVICS_SHRUC2/app/src/main/res/layout/activity_ending.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ibrahim.mushtaque/AndroidStudioProjects/TPVICS_SHRUC2/TPVICS_SHRUC2/app/src/main/res/layout/activity_section_im1.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ibrahim.mushtaque/AndroidStudioProjects/TPVICS_SHRUC2/TPVICS_SHRUC2/app/src/main/res/layout/activity_section_im2.xml" value="0.27892234548335976" />
+        <entry key="..\:/Users/ibrahim.mushtaque/AndroidStudioProjects/TPVICS_SHRUC2/TPVICS_SHRUC2/app/src/main/res/layout/activity_section_ss_2.xml" value="0.35833333333333334" />
         <entry key="..\:/Users/ibrahim.mushtaque/Documents/GitHub/TPVICS_R2/app/src/main/res/layout/activity_identification.xml" value="0.5" />
         <entry key="..\:/Users/ibrahim.mushtaque/Documents/GitHub/TPVICS_R2/app/src/main/res/layout/activity_main.xml" value="0.55" />
         <entry key="..\:/Users/ibrahim.mushtaque/Documents/GitHub/TPVICS_R2/app/src/main/res/layout/activity_section_a1.xml" value="0.67" />
@@ -81,7 +84,7 @@
     </option>
   </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="16" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="16" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

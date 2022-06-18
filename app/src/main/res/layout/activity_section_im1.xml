@@ -332,6 +332,17 @@
                                 android:text="@string/im0305" />
 
                             <RadioButton
+                                android:id="@+id/im0306"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:checked="@{form.im03.equals(`6`)}"
+                                android:onClick="@{()->form.setIm03(`6`)}"
+                                android:text="@string/im0306" />
+
+
+
+
+                            <RadioButton
                                 android:id="@+id/im0396"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"

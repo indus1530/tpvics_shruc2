@@ -929,6 +929,7 @@
                                         android:id="@+id/ss20a"
                                         android:layout_width="match_parent"
                                         android:layout_height="wrap_content"
+                                        android:visibility="@{form.ss19.equals(`31`) || form.ss19.equals(`32`) || form.ss19.equals(`33`) || form.ss19.equals(`34`) || form.ss19.equals(`35`) || form.ss19.equals(`36`) || form.ss19.equals(`37`)  ? View.GONE : View.VISIBLE}"
                                         android:checked="@{form.ss20.equals(`11`)}"
                                         android:onClick="@{()->form.setSs20(`11`)}"
                                         android:text="@string/ss20a" />

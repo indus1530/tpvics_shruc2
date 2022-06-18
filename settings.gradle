@@ -9,5 +9,5 @@ dependencyResolutionManagement {
         }
     }
 }
-rootProject.name = "TPVICS_R2"
+rootProject.name = "TPVICS_SHRUC_R2"
 include ':app'

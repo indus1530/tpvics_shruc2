@@ -571,6 +571,7 @@
     <string name="im0303">Misplaced</string>
     <string name="im0304">Card was not available with the health provider </string>
     <string name="im0305">The vaccinator/ facility didn’t provide the card </string>
+    <string name="im0306">Not familiar with any such card </string>
     <string name="im0396">Other specify </string>
     <string name="im04">Check and copy Date of Birth recorded on card:</string>
     <string name="im04dd">Day</string>
