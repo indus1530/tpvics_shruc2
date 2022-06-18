@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <color name="colorPrimary">#303F9F</color>
-    <color name="colorPrimaryLight">#7986CB</color>
-    <color name="colorPrimaryDark">#1A237E</color>
-    <color name="colorAccent">#00E676</color>
-    <color name="colorAccentLight">#69F0AE</color>
+    <color name="colorPrimary">#0288d1</color>
+    <color name="colorPrimaryLight">#5eb8ff</color>
+    <color name="colorPrimaryDark">#005b9f</color>
+    <color name="colorAccent">#ab47bc</color>
+    <color name="colorAccentLight">#df78ef</color>
     <!--
     <color name="colorAccent">#546E7A</color>
         <color name="colorAccentLight">#B0BEC5</color>
     -->
 
-    <color name="colorPrimaryOverlay">#7f303F9F</color>
-    <color name="colorPrimaryLightOverlay">#7f7986CB</color>
-    <color name="colorPrimaryDarkOverlay">#7f1A237E</color>
-    <color name="colorAccentOverlay">#7f00E676</color>
-    <color name="colorAccentLightOverlay">#7f69F0AE</color>
-
+    <color name="colorPrimaryOverlay">#7f0288d1</color>
+    <color name="colorPrimaryLightOverlay">#7f5eb8ff</color>
+    <color name="colorPrimaryDarkOverlay">#7f005b9f</color>
+    <color name="colorAccentOverlay">#7fab47bc</color>
+    <color name="colorAccentLightOverlay">#7fdf78ef</color>
     <color name="enabled_color">#000000</color>
     <color name="disabled_color">#ef7f7f</color>
 
